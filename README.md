@@ -37,13 +37,5 @@ while( numero<3  ){
 }
 ```
 
-4. Ejercicio: Usando arreglos y un ciclo for pinta 4 estrellas en (50, 100) , (100, 100), (150, 100) y (200, 100)
+4. Ejercicio: Usando arreglos y un ciclo pinta 4 estrellas en (50, 100) , (100, 100), (150, 100) y (200, 100)
 Pista: Crea 2 arreglos llamados coordenadasX y coordenadasY con 4 elementos y usalos para guardar las coordenadas luego usa un ciclo for para pintar las estrellas
-Recuerda que los ciclos for se escriben de la siguiente manera:
-```javascript
-var estudiantes = ["Yeimi", "Juan", "Jose", "Sergio", "Julián"];
-for (var indice = 0; indice<estudiantes.length; indice++) {
-	println(estudiantes[indice]);
-}
-
-```
